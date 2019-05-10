@@ -11,7 +11,7 @@ In addition to this objective, the following parameters were given when designin
 In  order  to  design  a  buck  converter  with  feedback  control,  a  digital  approach  VIA microcontroller implementation was utilized.  
 This power supply utilizes the Arduino UNO microcontroller to account perform voltage stabilization and adjusting the volt-age output.
 
-Link for video of project in operation: https://youtu.be/LWJfwCdIt00
+Link for project demo video: https://youtu.be/LWJfwCdIt00
 
 ## Contact information
 * Nick Woodward: woodwardn9@students.rowan.edu
