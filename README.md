@@ -13,7 +13,7 @@ This power supply utilizes the Arduino UNO microcontroller to account perform vo
 
 Link for video of project in operation: https://youtu.be/LWJfwCdIt00
 
-## Authors and Contact information
+## Contact information
 * Nick Woodward: woodwardn9@students.rowan.edu
 * John Garvey: garveyj7@students.rowan.edu
 * Kyle McKeown: mckeownk5@students.rowan.edu
