@@ -1,7 +1,7 @@
-# P-controlled buck converter with a moving average filter.
+# P-controlled buck converter with a moving average filter
 
 The overall goal of this project is to create a buck converter with a feedback control system.  
-In addition to this objective, the following parameters were given when de-signing the buck converter:
+In addition to this objective, the following parameters were given when designing the buck converter:
 * Output Voltage Ripple = 2.66%
 * Inductor Value = 500uH
 * Voltage Input (Vin) = 7V
