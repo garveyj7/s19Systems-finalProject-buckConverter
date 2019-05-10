@@ -8,7 +8,8 @@ In addition to this objective, the following parameters were given when designin
 * Voltage Output (Vout) = 0-7V
 * Switching Frequency = 10kHz
 
-In  order  to  design  a  buck  converter  with  feedback  control,  a  digital  approach  VIA microcontroller implementation was utilized.  
+In order to design a buck converter with feedback control, a digital approach via microcontroller implementation was utilized. 
+
 This power supply utilizes the Arduino UNO microcontroller to account perform voltage stabilization and adjusting the volt-age output.
 
 Link for project demo video: https://youtu.be/LWJfwCdIt00
